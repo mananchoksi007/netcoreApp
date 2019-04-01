@@ -1,0 +1,11 @@
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

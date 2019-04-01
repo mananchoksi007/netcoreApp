@@ -1,0 +1,13 @@
+D:\Projects\netCore\BethanysPieShop\BethanysPieShop
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BethanysPieShop
+--content-root=D:\Projects\netCore\BethanysPieShop\BethanysPieShop
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Account\Login.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Account\Register.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Feedback\FeedbackComplete.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Feedback\Index.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Home\Details.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Home\Index.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\Shared\_Layout.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\_ViewImports.cshtml
+--file=D:\Projects\netCore\BethanysPieShop\BethanysPieShop\Views\_ViewStart.cshtml
